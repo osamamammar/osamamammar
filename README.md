@@ -16,7 +16,7 @@
  <a href="https://linkedin.com/in/osamamammar/" target="_blank">
   <img alt="visitors" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/osamamammar/" />
  </a>
- <a href="https://twitter.com/osamamammar" target="_blank">>
+ <a href="https://twitter.com/osamamammar" target="_blank">
   <img alt="ViewCount" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/osamamammar" />
  </a>
  <a href="mailto:osamaammar29@gmail.com">
