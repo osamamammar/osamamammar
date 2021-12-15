@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm a Frontend Engineer 👨‍💻
 
-<!--
-**osamamammar/osamamammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Frontend-Engineer-sucess)
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
+- 💬 Ask me about mobile development, I am happy to help 🤝
+- 📫 You can reach me via LinkedIn, Twitter or Mail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Some of my main projects
+ 
+
+    
+<img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osamamammar&show_icons=true&hide_border=true&title_color=000000" />
+
+<p align="center" >
+  <img alt="visitors" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/osamamammar/" />
+  <img alt="ViewCount" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/osamamammar" />
+  <img alt="ViewCount" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:osamaammar29@gmail.com" />
+</p>
+<p align="center" >
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=osamamammar.visitor.svg" />
+</p>
