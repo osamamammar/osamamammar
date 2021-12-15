@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Frontend-Engineer-sucess)
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💬 Ask me about mobile development, I am happy to help 🤝
+- 💬 Ask me about frontend development, I am happy to help 🤝
 - 📫 You can reach me via LinkedIn, Twitter or Mail
 
 ### 🚀 Some of my main projects
