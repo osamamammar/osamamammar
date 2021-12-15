@@ -7,9 +7,9 @@
 - 📫 You can reach me via LinkedIn, Twitter or Mail
 
 ### 🚀 Some of my main projects
-in progrss . . .
+soon . . . .
 
-    
+
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osamamammar&show_icons=true&hide_border=true&title_color=000000" />
 
 <p align="center" >
