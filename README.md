@@ -13,10 +13,10 @@
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osamamammar&show_icons=true&hide_border=true&title_color=000000" />
 
 <p align="center" >
- <a href="https://linkedin.com/in/osamamammar/">
+ <a href="https://linkedin.com/in/osamamammar/" target="_blank">
   <img alt="visitors" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/osamamammar/" />
  </a>
- <a href="https://twitter.com/osamamammar"">
+ <a href="https://twitter.com/osamamammar" target="_blank">>
   <img alt="ViewCount" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/osamamammar" />
  </a>
  <a href="mailto:osamaammar29@gmail.com">
