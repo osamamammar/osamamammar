@@ -1,14 +1,29 @@
-name: Latest blog post workflow
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: lowlighter/metrics@latest
         with:
-          feed_list: 'https://dev.to/feed/osamamammar, https://medium.com/feed/@osamamammar'
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: osamamammar
+          template: classic
+          base: ""
+          commits_authoring: osamaammar29@gmail.com
+          config_timezone: Africa/Cairo
+          plugin_posts: yes
+          plugin_posts_covers: yes
+          plugin_posts_descriptions: yes
+          plugin_posts_limit: 2
+          plugin_posts_source: dev.to
+          plugin_posts_user: osamamammar
