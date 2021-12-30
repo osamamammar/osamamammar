@@ -10,8 +10,14 @@
 ### 🚀 Some of my main projects
 soon . . . .
 
+### 📝 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osamamammar&show_icons=true&hide_border=true&title_color=000000" />
+
+
 
 <p align="center">
   <a href="https://dev.to/osamamammar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/osamamammar" height="30" width="40" /></a>
