@@ -11,9 +11,10 @@
 soon . . . .
 
 ### 📝 Blog posts
-
 <!-- BLOG-POST-LIST:START -->
+[![Metrics](https://github.com/osamamammar/osamamammar/blob/main/github-metrics.svg)](https://dev.to/osamamammar)
 <!-- BLOG-POST-LIST:END -->
+
 
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osamamammar&show_icons=true&hide_border=true&title_color=000000" />
 
