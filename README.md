@@ -8,7 +8,7 @@
 - 📫 You can reach me via LinkedIn, Twitter or Mail
 
 ### 🚀 Some of my main projects
-soon . . . .
+- [Here](https://github.com/osamamammar?tab=repositories)
 
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
