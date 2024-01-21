@@ -1,4 +1,4 @@
-## Hi there, I'm a Full Stack Engineer 👨‍💻
+## Hi there, I'm a Frontend Engineer 👨‍💻
 
 ![](https://img.shields.io/badge/FullStack-Engineer-sucess)
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -27,7 +27,7 @@
   <a href="https://stackoverflow.com/users/10198755" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10198755" height="30" width="40" /></a>
   <a href="https://hashnode.com/@osamamammar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@osamamammar" height="30" width="40" /></a>
   <a href="https://medium.com/@osamamammar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamamammar" height="30" width="40" /></a>
-  <a href="mailto:osamaammar29@gmail.com"><img align="center" alt="gmailIcon" src="https://img.icons8.com/color/40/000000/gmail-new.png/" /></a>
+  <a href="mailto:osamaammar29@gmail.com"><img align="center" alt="gmailIcon" src="https://img.icons8.com/fluency/40/gmail-new.png" /></a>
 </p>
 
 <p align="center" >
