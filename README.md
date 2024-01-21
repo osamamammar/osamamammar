@@ -31,5 +31,5 @@
 </p>
 
 <p align="center" >
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=osamamammar.visitor.svg" />
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=osamamammar&color=blue" />
 </p>
