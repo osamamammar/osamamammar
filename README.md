@@ -1,6 +1,6 @@
 ## Hi there, I'm a Frontend Engineer 👨‍💻
 
-![](https://img.shields.io/badge/FullStack-Engineer-sucess)
+![](https://img.shields.io/badge/Frontend-Engineer-sucess)
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 📝 I regularly write articles on [medium](medium.com/@osamamammar)
